@@ -1,2 +1,2 @@
 # Email-Valid
-Check if email is exist or not
+~ Desc : Check if email is exist or not
