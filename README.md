@@ -6,7 +6,7 @@
 
 
   ```
-   - Fcebook : https://facebook.com/SQmazine/
+   - Facebook : https://facebook.com/SQmazine/
    
    - Telegram : SalimOxalk
    
