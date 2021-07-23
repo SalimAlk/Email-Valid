@@ -6,9 +6,9 @@
 
 
   ```
-   Fcebook : https://facebook.com/SQmazine/
+   - Fcebook : https://facebook.com/SQmazine/
    
-   Telegram : SalimOxalk
+   - Telegram : SalimOxalk
    
-   Instagram : https://www.instagram.com/s4l1m_salim/
+   - Instagram : https://www.instagram.com/s4l1m_salim/
    ```
