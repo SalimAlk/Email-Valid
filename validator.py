@@ -22,6 +22,8 @@ def main(email):
 	text = (get_url.text)
 	if "\"Valid\":true,\"Status\":\"Valid\"" in text:
 		print((g+'Email : {} is True '+w).format(email))
+		with open("result.txt", 'r') as wr:
+			wr.write(email+"\n")
 	else:
 		print((r+'Email : {} is Shit '+w).format(email))
 try:
